@@ -83,7 +83,7 @@
 .line {
     width: 12px;
     height: 100px;
-    background: white;
+    background: green;
     position: absolute;
     left: calc(50% - 12px);
 }
